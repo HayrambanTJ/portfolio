@@ -1,7 +1,7 @@
 const data = {
-	"fullName": "Michael (Mehdi) Solati",
-	"title": "Developer 🥑 Advocate",
-	"location": "San Francisco Bay Area",
+	"fullName": "Hayramban TJ",
+	"title": "Front End Developer",
+	"location": "Chennai, Tamil Nadu",
 	"description": "I am obsessed with two things: coffee and the web. Luckily being in Developer Relations, I get my fill of both every single day- whether through building new applications, working on tools for developers, or sharing my experiences across the world!No amount of time is ever enough to do everything I want. So I have to stay moving by writing guides, building cool apps, teaching fledgling developers the voodoo magic of the web and most importantly Drinking coffee...",
 	"experiences": [
 		{
@@ -126,6 +126,6 @@ const data = {
 			"type": "work"
 		}
 	],
-	"image": "./assets/profile.webp"
+	"image": "./assets/myphoto.jpg"
 };
 export default data;
