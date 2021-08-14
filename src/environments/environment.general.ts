@@ -10,7 +10,7 @@ export const environment = {
     measurementId: 'G-43TV7TLVQ1'
   },
   site: {
-    baseURL: 'https://michaelsolati.com',
+    baseURL: 'https://hayrambanportfolio.netlify.app/',
     email: 'hayramban@gmail.com', // Should be same as LinkedIn login
     name: 'Hayramban TJ',
     short_name: 'Hayramban',
