@@ -46,7 +46,7 @@ export class HomeComponent {
     defaultFilter,
     { title: 'Work', type: 'work', icon: 'business' },
     { title: 'Education', type: 'education', icon: 'school' },
-    { title: 'Volunteer', type: 'volunteer', icon: 'group' }
+    { title: 'Certificates', type: 'volunteer', icon: 'group' }
   ];
   private _meta = environment.pages.home;
 
