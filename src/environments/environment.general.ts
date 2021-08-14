@@ -11,19 +11,19 @@ export const environment = {
   },
   site: {
     baseURL: 'https://michaelsolati.com',
-    email: 'me@michaelsolati.com', // Should be same as LinkedIn login
-    name: 'Michael Solati',
-    short_name: 'Michael',
-    phone: '347.559.7399',
-    twitter: 'MichaelSolati',
+    email: 'hayramban@gmail.com', // Should be same as LinkedIn login
+    name: 'Hayramban TJ',
+    short_name: 'Hayramban',
+    phone: '9600297357',
+    twitter: 'Hayramban',
   },
   pages: {
     devto: {
       enabled: true,
       name: 'Articles',
       path: 'articles',
-      username: 'michaelsolati',
-      title: 'Articles | Michael Solati',
+      username: 'Hayramban',
+      title: 'Articles | Hayramban',
       header: 'Articles',
       description: 'Stories, guides, and tutorials for developers by me.',
       topics: ['writing', 'article']
@@ -32,8 +32,8 @@ export const environment = {
       enabled: true,
       name: 'Code',
       path: 'code',
-      username: 'MichaelSolati',
-      title: 'Code | Michael Solati',
+      username: 'Hayramban',
+      title: 'Code | Hayramban',
       header: 'Code',
       description: 'Some of the best code I\'ve written, available for everyone!',
       topics: ['code', 'software', 'development']
@@ -42,9 +42,9 @@ export const environment = {
       enabled: true, // Never disables
       name: 'Home',
       path: '',
-      username: 'michaelsolati', // For LinkedIn
-      title: 'Home | Michael Solati',
-      header: 'Michael Solati',
+      username: 'Hayramban', // For LinkedIn
+      title: 'Home | Hayramban',
+      header: 'Hayramban',
       description: null // Leave empty to default to LinkedIn description
     },
     youtube: {
@@ -52,7 +52,7 @@ export const environment = {
       name: 'Talks',
       path: 'talks',
       playlist: 'PLpvTYOL2L1kRkGfvnMk96sQ-iDKkzxrUl',
-      title: 'Talks | Michael Solati',
+      title: 'Talks | Hayramban',
       header: 'Talks',
       description: 'From major conferences to smaller meetups, I\'ve spoken at a slew of events.',
       topics: ['conference', 'speaking']
